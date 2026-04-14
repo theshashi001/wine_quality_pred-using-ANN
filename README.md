@@ -1,5 +1,14 @@
 # 🍷 Wine Quality Prediction using Artificial Neural Networks (ANN)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red?logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn)
+![SMOTE](https://img.shields.io/badge/Imbalanced--Learn-SMOTE-green)
+![ANN](https://img.shields.io/badge/Model-ANN-purple)
+![Dataset](https://img.shields.io/badge/Dataset-UCI%20Wine%20Quality-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A production-grade machine learning project that predicts wine quality using physicochemical properties and an Artificial Neural Network (ANN). This project demonstrates a complete ML pipeline — from data preprocessing and imbalance handling to model training, evaluation, and optimization.
 
 ---
