@@ -224,6 +224,7 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Shashi Tiwari**
+
 AI/ML Enthusiast | Full Stack Developer | Research-Oriented Engineer
 
 ---
